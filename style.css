@@ -1,6 +1,5 @@
-.prefmanager_button {
+.prefmanager_button .slds-button {
   background-color: #0638d2 !important;
-  font-weight: 700 !important;
   font-family: Sora, Arial, sans-serif !important;
   font-size: 12px !important;
   color: #ffffff !important;
