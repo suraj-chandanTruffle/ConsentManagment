@@ -1,6 +1,3 @@
-.slds-card__body {
-  text-align: -webkit-center !important;
-}
 .slds-card__header {
   margin: 0px !important;
 }
@@ -12,6 +9,10 @@
   display: block;
   text-align: center;
   width: 100%;
+}
+.slds-card__body {
+  text-align: -webkit-center !important;
+  margin-top: 0px;
 }
 .slds-card__body::before {
   content: "Use the form below to opt out of all non-transactional emails.";
