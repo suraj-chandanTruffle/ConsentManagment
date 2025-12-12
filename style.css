@@ -27,6 +27,7 @@
   line-height: 1;
   letter-spacing: 4px;
   text-transform: uppercase;
+  font-family: 'sora', Arial, sans-serif !important;
 }
 .slds-card__header .slds-media__body::after {
   content: "Use the form below to opt out of all non-transactional emails.";
@@ -36,6 +37,8 @@
   text-align: center;
   width: 100%;
   font-weight: 300 !important;
+  padding-bottom: 50px !important;
+  font-family: 'sora', Arial, sans-serif !important;
 }
 .slds-card__body {
   text-align: -webkit-center !important;
@@ -57,6 +60,7 @@
   color: #23263B;
   top: -6px;
   position: relative;
+  font-family: 'sora', Arial, sans-serif !important;
 }
 .prefmanager_textinput .slds-form-element__label::after {
   content: "*";
