@@ -1,110 +1,11 @@
 .bodycontainer{
  margin: 0px !important;
 }
-.slds-card::before {
-  content: "";
-  display: block;
-  width: 100%;
-  text-align: center;
-  background-image: url("https://go.algolia.com/rs/746-ROU-361/images/Algolia-logo-blue.png");
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
-  height: 34px;
-  margin-bottom: 56px;
-}
-.pref-center-section-item{
-  margin: 0px !important;
-}
 .iframecontainer{
-    width: 100% !important;
-    height: 100vh !important;
-    border: 0 !important;
-    overflow: auto !important;
-    box-shadow: none !important;
-    outline: none !important;
-}
-.slds-card {
-  padding: 60px 20px !important;
-  border: none !important;
-  border-radius: 0px !important;
-}
-.slds-card__header {
-  margin: 0px !important;
-}
-.slds-card__header .slds-media__body::before {
-  content: "Unsubscribe";
-  display: block;
-  font-size: 56px;
-  font-weight: 300 !important;
-  color: #0e2058;
-  text-align: center;
-  width: 100%;
-  line-height: 1;
-  letter-spacing: 4px;
-  text-transform: uppercase;
-  font-family: sans-serif !important;
-}
-.slds-card__header .slds-media__body::after {
-  content: "Use the form below to opt out of all non-transactional emails.";
-  display: block;
-  font-size: 24px;
-  color: #0e2058;
-  text-align: center;
-  width: 100%;
-  font-weight: 300 !important;
-  padding-bottom: 50px !important;
-  font-family: sans-serif !important;
-}
-.slds-card__body {
-  text-align: -webkit-center !important;
-  background-color: #f5f5fa;
-  padding: 30px;
-  margin: 0px auto;
-  width: 600px;
-  height: 200px;
-  box-shadow: 0 5px 15px 0 rgba(37, 44, 97, .15), 0 2px 4px 0 rgba(93, 100, 148, .2);
-}
-.prefmanager_textinput {
-  margin-bottom: 10px;
-}
-.prefmanager_textinput .slds-form-element__label {
-  display: inline-block !important;
-  font-weight: 600;
-  letter-spacing: 1.2px !important;
-  color: #23263B;
-  top: -6px;
-  position: relative;
-}
-.prefmanager_textinput .slds-form-element__label::after {
-  content: "*";
-  color: red;
-}
-.prefmanager_textinput .slds-form-element__control{
-  display: inline-block !important;
-  width: 405px !important;
-}
-.prefmanager_button .slds-button {
-  border: 0px !important;
-  cursor: pointer !important;
-  font-weight: 700 !important;
-  letter-spacing: 1px !important;
-  text-transform: uppercase !important;
-  font-size: 12px !important;
-  display: inline-flex !important;
-  padding-top: 6px !important;
-  padding-bottom: 6px !important;
-  align-items: center !important;
-  justify-content: center !important;
-  appearance: none !important;
-  font-family: Sora, Arial, sans-serif !important;
-  text-decoration: none !important;
-  will-change: box-shadow, transform !important;
-  transition: box-shadow 0.15s ease, transform 0.15s ease !important;
-  border-radius: 50px 16px 16px 50px !important;
-  padding-left: 32px !important;
-  padding-right: 24px !important;
-  box-shadow: 0px 2px 8px rgb(45 35 66 / 30%), inset 0px -3px 0px 0px #0738d2 !important;
-  background-color: #003dff !important;
-  color: #ffffff !important;
+ width: 100% !important;
+ height: 100vh !important;
+ border: 0 !important;
+ overflow: auto !important;
+ box-shadow: none !important;
+ outline: none !important;
 }
