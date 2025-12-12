@@ -11,7 +11,7 @@
   margin-bottom: 56px;
 }
 .slds-card {
-  margin: 60px 20px !important;
+  padding: 60px 20px !important;
 }
 .slds-card__header {
   margin: 0px !important;
