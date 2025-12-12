@@ -1,7 +1,7 @@
 .slds-card__header {
   margin: 0px !important;
 }
-.slds-card__header::after {
+/*.slds-card__header::after {
   content: "Unsubscribe";
   font-size: 56px;
   font-weight: 300 !important;
@@ -9,12 +9,12 @@
   display: block;
   text-align: center;
   width: 100%;
-}
+}*/
 .slds-card__body {
   text-align: -webkit-center !important;
   margin-top: 0px;
 }
-.slds-card__body::before {
+.slds-card__header-title::before {
   content: "Use the form below to opt out of all non-transactional emails.";
   font-size: 24px;
   color: #0e2058;
