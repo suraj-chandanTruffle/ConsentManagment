@@ -3,5 +3,5 @@ const params = new URLSearchParams(window.location.search);
 if (!params.has('pctoken')) {
   const url = new URL(window.location.href);
   url.searchParams.set("pctoken", token);
-  window.location.href = url.href;
+ // window.location.href = url.href;
 }
