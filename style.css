@@ -4,7 +4,7 @@
 .slds-card__header .slds-card__header-title::before {
   content: "Unsubscribe";
 }
-.slds-card__header .slds-text-heading_small::before::before {
+.slds-card__header .slds-text-heading_small::before {
   content: "Use the form below to opt out of all non-transactional emails.";
 }
 .prefmanager_textinput {
