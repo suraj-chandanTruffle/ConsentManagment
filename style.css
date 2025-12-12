@@ -56,11 +56,9 @@
   display: inline-block !important;
   font-weight: 600;
   letter-spacing: 1.2px !important;
-  font-family: sans-serif !important;
   color: #23263B;
   top: -6px;
   position: relative;
-  font-family: 'sora', Arial, sans-serif !important;
 }
 .prefmanager_textinput .slds-form-element__label::after {
   content: "*";
