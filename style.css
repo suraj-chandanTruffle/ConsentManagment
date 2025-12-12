@@ -1,4 +1,4 @@
-slds-card::before {
+.slds-card::before {
   content: "Test";
   display: block;
   width: 100%;
