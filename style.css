@@ -10,8 +10,8 @@
   height: 34px;
   margin-bottom: 56px;
 }
-.pref-center-section-item {
-  margin: 60px 20px;
+.slds-card {
+  margin: 60px 20px !important;
 }
 .slds-card__header {
   margin: 0px !important;
