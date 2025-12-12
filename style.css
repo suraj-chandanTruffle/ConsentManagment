@@ -1,3 +1,9 @@
+.slds-card__body {
+  text-align: -webkit-center !important;
+}
+.prefmanager_textinput .slds-form-element__label {
+  display: none !important;
+}
 .prefmanager_button .slds-button {
   border: 0px !important;
   cursor: pointer !important;
