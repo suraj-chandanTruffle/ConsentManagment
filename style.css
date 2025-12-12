@@ -41,13 +41,13 @@
   font-family: Sora, Arial, sans-serif !important;
   color: #23263B;
 }
-.prefmanager_textinput .slds-form-element__label::before {
+.prefmanager_textinput .slds-form-element__label::after {
   content: "*";
   color: red;
 }
 .prefmanager_textinput .slds-form-element__control{
   display: inline-block !important;
-  width: 405px important;
+  width: 405px !important;
 }
 .prefmanager_button .slds-button {
   border: 0px !important;
