@@ -3,9 +3,20 @@
 }
 .slds-card__header .slds-card__header-title::before {
   content: "Unsubscribe";
+  font-size: 56px;
+  font-weight: 300 !important;
+  color: #0e2058;
+  display: block;
+  text-align: center;
+  width: 100%;
 }
 .slds-card__header .slds-text-heading_small::before {
   content: "Use the form below to opt out of all non-transactional emails.";
+  font-size: 24px;
+  color: #0e2058;
+  display: block;
+  text-align: center;
+  width: 100%;
 }
 .prefmanager_textinput {
   width: 405px !important;
