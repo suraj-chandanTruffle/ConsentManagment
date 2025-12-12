@@ -10,6 +10,9 @@
   height: 34px;
   margin-bottom: 56px;
 }
+.slds-card{
+  padding: 60px 20px;
+}
 .slds-card__header {
   margin: 0px !important;
 }
@@ -35,7 +38,7 @@
   box-shadow: 0 5px 15px 0 rgba(37, 44, 97, .15), 0 2px 4px 0 rgba(93, 100, 148, .2);
 }
 .slds-card__header-title::before {
-  content: "Use the form below to opt out of all non-transactional emails.";
+  content: "";/*"Use the form below to opt out of all non-transactional emails.";*/
   font-size: 24px;
   color: #0e2058;
   display: block;
