@@ -1,3 +1,6 @@
+.bodycontainer{
+margin:0 !important;
+}
 .slds-card::before {
   content: "";
   display: block;
@@ -9,6 +12,9 @@
   background-position: center;
   height: 34px;
   margin-bottom: 56px;
+}
+.pref-center-section-item{
+margin:0 !important;
 }
 .iframecontainer{
     width: 100% !important;
