@@ -1,7 +1,14 @@
 .slds-card::before {
-  content: "Test";
+  content: "";
   display: block;
   width: 100%;
+  text-align: center;
+  background-image: url(https://go.algolia.com/rs/746-ROU-361/images/Algolia-logo-blue.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 34px;
+  margin-bottom: 56px;
 }
 .slds-card__header {
   margin: 0px !important;
