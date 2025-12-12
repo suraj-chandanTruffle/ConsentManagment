@@ -1,6 +1,12 @@
 .slds-card__body {
   text-align: -webkit-center !important;
 }
+.slds-card__body::before {
+  content: "Hello, world!";
+}
+.prefmanager_textinput {
+  width: 405px !important;
+}
 .prefmanager_textinput .slds-form-element__label {
   display: none !important;
 }
