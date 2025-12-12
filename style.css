@@ -31,11 +31,11 @@
 .slds-card__header .slds-media__body::after {
   content: "Use the form below to opt out of all non-transactional emails.";
   display: block;
-  /*font-size: 24px;
+  font-size: 24px;
   color: #0e2058;
   text-align: center;
   width: 100%;
-  font-weight: 300 !important;*/
+  font-weight: 300 !important;
 }
 .slds-card__body {
   text-align: -webkit-center !important;
