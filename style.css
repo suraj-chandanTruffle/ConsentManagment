@@ -1,5 +1,5 @@
 .bodycontainer{
-margin:0 !important;
+ margin: 0px !important;
 }
 .slds-card::before {
   content: "";
@@ -14,7 +14,7 @@ margin:0 !important;
   margin-bottom: 56px;
 }
 .pref-center-section-item{
-margin:0 !important;
+  margin: 0px !important;
 }
 .iframecontainer{
     width: 100% !important;
@@ -27,6 +27,7 @@ margin:0 !important;
 .slds-card {
   padding: 60px 20px !important;
   border: none !important;
+  border-radius: 0px !important;
 }
 .slds-card__header {
   margin: 0px !important;
