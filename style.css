@@ -19,14 +19,14 @@
 .slds-card__header .slds-media__body::before {
   content: "Unsubscribe";
   display: block;
-  /*font-size: 56px;
+  font-size: 56px;
   font-weight: 300 !important;
   color: #0e2058;
   text-align: center;
   width: 100%;
   line-height: 1;
   letter-spacing: 4px;
-  text-transform: uppercase;*/
+  text-transform: uppercase;
 }
 .slds-card__header .slds-media__body::after {
   content: "Use the form below to opt out of all non-transactional emails.";
