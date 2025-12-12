@@ -29,11 +29,18 @@
   font-weight: 300 !important;
 }
 .prefmanager_textinput {
-  width: 405px !important;
   margin-bottom: 10px;
 }
 .prefmanager_textinput .slds-form-element__label {
-  display: none !important;
+  display: inline-block !important;
+  font-weight: 600;
+  letter-spacing: 1.2px;
+  font-family: Sora, Arial, sans-serif;
+  color: #23263B;
+}
+.prefmanager_textinput .slds-form-element__control{
+  display: inline-block !important;
+  width: 405px important;
 }
 .prefmanager_button .slds-button {
   border: 0px !important;
