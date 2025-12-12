@@ -10,8 +10,17 @@
   height: 34px;
   margin-bottom: 56px;
 }
+.iframecontainer{
+width: 100%;
+    height: 100vh;
+    border: 0;
+    overflow: auto;
+    box-shadow: none;
+    outline: none;
+}
 .slds-card {
   padding: 60px 20px !important;
+  border: none;
 }
 .slds-card__header {
   margin: 0px !important;
