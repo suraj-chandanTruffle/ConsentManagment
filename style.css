@@ -1,6 +1,9 @@
 .slds-card__body {
   text-align: -webkit-center !important;
 }
+.slds-card__header {
+  margin: 0px !important;
+}
 .slds-card__header::after {
   content: "Unsubscribe";
   font-size: 56px;
